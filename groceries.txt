@@ -4,4 +4,7 @@ Quarantine Groceries
  - Coffee
  - Beer
 - Ice-cream
+- Bananas
+- Cookies
+- Agua das pedras
  
