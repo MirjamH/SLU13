@@ -1,0 +1,7 @@
+Quarantine Groceries
+ - Toilet Paper
+ - Popcorn
+ - Coffee
+ - Beer
+- Ice-cream
+ 
